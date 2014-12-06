@@ -473,9 +473,9 @@
                             <head type="supplied">[Act 1, Scene 1]</head>
                             <cb n="1"/>
                             <stage rend="italic center" type="entrance">Enter Barnardo and Francisco two Centinels.</stage>
-                            <p rend="center italic">Barnardo.</p>
-                            <p>
-                        <c rend="decoratedCapital">W</c>Ho's there?</p>
+                            <sp><speaker rend="center italic">Barnardo.</speaker>
+                            <l>
+                        <c rend="decoratedCapital">W</c>Ho's there?</p></sp>
                             <sp who="#F-ham-fra">
                                 <speaker rend="italic">Fran.</speaker>
                                 <l>Nay answer me: Stand &amp; vnfold
