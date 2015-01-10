@@ -159,7 +159,7 @@
                                         p. 279 misnumbered 259; p. 282 misnumbered 280; p.308 misnumbered 38;
                                         p. 379 misnumbered 389; p. 399 misnumbered 993.</p>
                                 </foliation>
-                                <collation><p>The signatures varies between sources, with the most commonly
+                                <collation><p>The signatures vary between sources, with the most commonly
                                     cited being Hinman's and West's: 1. Hinman: πA⁶ (πA1+1) [πB²], ²A-2B⁶
                                     2C² a-g⁶ χgg⁸ h-v⁶ x⁴ χ1.2 [para.]-2[para.]⁶ 3[para]¹ aa-ff⁶ gg² Gg⁶
                                     hh⁶ kk-bbb⁶; 2. West: πA⁶ (πA1+1, πA5+1.2)²A-2B⁶ 2C² a-g⁶ ²g⁸ h-v⁶ x⁴
@@ -531,8 +531,8 @@
                         <l rend="italic" n="2">The brightest Heauen of Inuention:</l>
                         <l rend="italic" n="3">A Kingdome for a Stage, Princes to Act,</l>
                         <l rend="italic" n="4">And Monarchs to behold the swelling Scene.</l>
-                        <l n="5"><hi rend="italic">Then should the Warlike</hi> Harry, <hi rend="italic">like himselfe,</hi></l>
-                        <l n="6"><hi rend="italic">Assume the Port of</hi> Mars<hi rend="italic">, and at his heeles</hi></l>
+                        <l rend="italic" n="5">Then should the Warlike <hi rend="roman">Harry,</hi> like himselfe,</l>
+                        <l rend="italic" n="6">Assume the Port of <hi rend="roman">Mars</hi>, and at his heeles</l>
                         <l rend="italic" n="7">(Leasht in, like Hounds) should Famine, Sword, and Fire</l>
                         <l rend="italic" n="8">Crouch for employment. But pardon, Gentles all:</l>
                         <l rend="italic" n="9">The flat vnraysed Spirits, that hath dar'd,</l>
